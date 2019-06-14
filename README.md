@@ -4,4 +4,4 @@ Algorithms And Data Structures Extendable with lessons.
  
 ![Logo algorithm food](1.png) 
 
-![Logo algorithm food](1.png)
+ 
