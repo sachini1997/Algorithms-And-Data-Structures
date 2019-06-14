@@ -4,5 +4,5 @@ Algorithms And Data Structures Extendable with lessons.
  
 ![Logo algorithm food](1.png) 
 
- ![Alt Text]( https://wallpapercave.com/w/wp3621084)
+ ![Alt Text]( )
 
